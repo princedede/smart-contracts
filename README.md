@@ -1,11 +1,20 @@
+TickExpress Dapp
 <br/>
 <p align="center">
 <a href="https://chain.link" target="_blank">
-<img src="./box-img-lg.png" width="225" alt="Chainlink Hardhat logo">
+<img src="TickExpressSmartContractLayout.svg" width="500" alt="Chainlink Hardhat logo">
 </a>
 </p>
 <br/>
+The TickExpress Dapp interacts with six different smart contracts:
+  1. "Ticket Creation and Issuance Contract" mints NFT tickets.
+  2. "Marketplace Functionality Contract" handles the buying and selling of tickets.
+  3. "Event Management Contract" manages the events.
+  4. "Additional Features Contract" handles ticket transfers.
+  5. "Payment Options Contract" handles payments.
+  6. "Analytics and Reporting Contract" provides analytics.
 
+Starter kit setup!
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/hardhat-starter-kit)
 
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/smartcontractkit/hardhat-starter-kit/badge)](https://www.gitpoap.io/gp/649)

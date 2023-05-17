@@ -13,8 +13,9 @@ The TickExpress Dapp interacts with six different smart contracts:<br/>
   4. "Additional Features Contract" handles ticket transfers.<br/>
   5. "Payment Options Contract" handles payments.<br/>
   6. "Analytics and Reporting Contract" provides analytics.<br/>
+<br/>
 
-Starter kit setup!
+Starter kit setup!<br/>
 - [Chainlink Hardhat Starter Kit](#chainlink-hardhat-starter-kit)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)

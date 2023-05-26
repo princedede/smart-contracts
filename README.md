@@ -13,6 +13,7 @@ The TickExpress Dapp interacts with six different smart contracts:<br/>
   4. "Additional Features Contract" handles ticket transfers.<br/>
   5. "Payment Options Contract" handles payments.<br/>
   6. "Analytics and Reporting Contract" provides analytics.<br/>
+  7. Additional functionality is re-sale of tickets issued by the DApp.
 <br/>
 
 Starter kit setup!<br/>
